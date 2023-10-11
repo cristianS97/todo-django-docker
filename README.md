@@ -1,4 +1,5 @@
 # todo-django-docker
 
-Crear imagen: docker build -t Crear imagen: docker build -t django-backend-simplilatam . .
-Correr imagen: docker run --name backend -p 8000:8000 -d Correr imagen: docker run --name backend -p 8000:8000 -d django-backend-simplilatam
+## Docker
+1. Crear imagen: docker build -t todo-django-docker-api .
+2. Correr imagen: docker run --name backend -p 8000:8000 -d todo-django-docker-api
