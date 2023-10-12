@@ -6,3 +6,4 @@
 
 ## Docker compose
 * Ejecutar: docker-compose -f backend.yml up -d
+* Bajar servicio: docker-compose -f backend.yml down
